@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-code-ing
 - 👀 I’m passionate about web development 
-- 🌱 I’m currently learning react.js
+- 🌱 I'm a front-end developer interested in advancing my career into full stack.
 - 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me ...
 
